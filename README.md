@@ -4,6 +4,7 @@
 - Playwright
 - TypeScript
 - Page Object Model
+- CI avec GitHub Actions
 
 ## 📂 Features
 - Login test
